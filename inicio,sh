@@ -1,0 +1,2 @@
+#/bin/bash
+cd cfx-server.data && screen -s "Fivem Server" bash ../run.sh +exec server.cfg
